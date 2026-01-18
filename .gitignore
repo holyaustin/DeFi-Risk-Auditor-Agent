@@ -1,6 +1,8 @@
 .DS_Store
 .env
 .python-version
+hardhat/.env
+.git2/
 
 # Python-generated files
 __pycache__/

@@ -1,3 +1,7 @@
+# DeFi-Risk-Auditor-Agent 
+
+A benchmark (green agent) that tests whether AI agents can detect and mitigate vulnerabilities in DeFi protocols — e.g., flash loan exploits, oracle manipulation, or reentrancy bugs.
+
 # A2A Agent Template
 
 A minimal template for building [A2A (Agent-to-Agent)](https://a2a-protocol.org/latest/) green agents compatible with the [AgentBeats](https://agentbeats.dev) platform.
