@@ -1,7 +1,7 @@
 [project]
 name = "green-agent-template"
 version = "0.1.0"
-description = "A template for A2A green agents"
+description = "DeFi Risk Auditor Green Agent for AgentBeats"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -26,3 +26,7 @@ test = [
     "pytest-asyncio>=0.24.0",
     "httpx>=0.28.1",
 ]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
